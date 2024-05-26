@@ -33,3 +33,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarshsahlot&show_icons=true&locale=en" alt="akarshsahlot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akarshsahlot&" alt="akarshsahlot" /></p>
+I'm an enthusiastic developer with a passion for creating impactful projects. Here you'll find a collection of my work organized by programming language.
+
+## Projects by Language
+
+### Python
+- [Data Analysis Tool](https://github.com/username/data-analysis-tool): A tool for data analysis and visualization using Pandas and Matplotlib.
+- [Web Scraper](https://github.com/username/web-scraper): A web scraping application built with BeautifulSoup and Requests.
+
+### JavaScript
+- [To-Do List App](https://github.com/username/todo-list-app): A simple to-do list application using React and Redux.
+- [Weather Dashboard](https://github.com/username/weather-dashboard): A weather dashboard application using Node.js and Express.
+
+### Java
+- [Spring Boot API](https://github.com/username/spring-boot-api): A RESTful API built with Spring Boot.
+- [Android Expense Tracker](https://github.com/username/android-expense-tracker): An expense tracking app for Android.
+
+### Other Languages
+- [Ruby on Rails Blog](https://github.com/username/rails-blog): A blogging platform built with Ruby on Rails.
+- [C++ Game Engine](https://github.com/username/cpp-game-engine): A simple 2D game engine built with C++ and SDL.
+
+Feel free to explore the repositories and reach out if you have any questions!
+
