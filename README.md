@@ -37,9 +37,18 @@ I'm an enthusiastic developer with a passion for creating impactful projects. He
 
 ## Projects by Language
 
-### Python
-- [Data Analysis Tool](https://github.com/username/data-analysis-tool): A tool for data analysis and visualization using Pandas and Matplotlib.
-- [Web Scraper](https://github.com/username/web-scraper): A web scraping application built with BeautifulSoup and Requests.
+### Flutter
+- [TIC TAC TOE GAME](https://github.com/AkarshSahlot/TicTacToe-main): Super cool animated tic tac toe game made by using flutter.
+- [CHATGPT DALL-E bot](https://github.com/AkarshSahlot/ChatBot-Dall-E-master): chatbot using dalle for image generation by providing text.
+- [Ecommerce app](https://github.com/AkarshSahlot/Ecommerce-flutter): ecommerce application with multiple vendor functionality.
+- [Flutter Course App](https://github.com/AkarshSahlot/flutter_course): flutter course application.
+- [simple calculator app](https://github.com/AkarshSahlot/flutter_course):flutter calculator do your calculation.
+- [akg food app](https://github.com/AkarshSahlot/Portfolio_app):food app to book food from from canteen.
+- [profile view app](https://github.com/AkarshSahlot/Flutter-Profile):view my favourite anime character.
+- [to do list app](https://github.com/AkarshSahlot/Flutter-ProviderTodoApp):simple to do app with using provider.
+- [make note of](https://github.com/AkarshSahlot/make-note-of-app):simple application to make our notes.
+- [local-music-player](https://github.com/AkarshSahlot/music_player-master):hear your downloaded music now.  
+  
 
 ### JavaScript
 - [To-Do List App](https://github.com/username/todo-list-app): A simple to-do list application using React and Redux.
