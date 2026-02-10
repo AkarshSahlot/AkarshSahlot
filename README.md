@@ -1,39 +1,70 @@
 <h1 align="center">Hi 👋, I'm Akarsh Sahlot</h1>
 <h3 align="center">A passionate Solana developer </h3>
+# 💫 About Me:
+
+- 👨‍💻 Maintainer in Linux Foundation Mentorship'26 at [Hyphae(Sony Csl)](https://github.com/hyphae) 
+- 🌐 Selected as mentee Linux Foundation Mentorship'25 at [Hyphae(Sony Csl)](https://github.com/hyphae)
+- 🏛️ Selected of Code for Gov Tech DMP'2025 at SocialCalc & EtherCalc
+- 👾 Contributor of European Summer of Code'26 at [OpenML](https://github.com/openml) & [AIonDemand](https://github.com/aiondemand)
+- 🔐 Contributor of Summer of Bitcoin'2025 at [Braidpool](https://github.com/braidpool)
+- 📊 Contributor of Hacktoberfest'25 Contributor
+- 👨‍💻 Contributor of SIH'25 Finalist under NTRO
+- 💻 Winner of 4x Hackathon winner at Stellar,GDG,Tensorflow
+- 🗣️ Google Developer Community Organizer, UttarPradesh
+- 🔭 Currently pursuing my Bachelors in Computer Science
+- 👨‍🏫 Blockchain Lead of GDG, The GDG Club at AKGEC , Ghaziabad
+- 👨🏽‍💻 Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
+- 💫 Visit my personal Portfolio site [![Here]](https://portfolio-nine-sooty-o3pwmc3ocw.vercel.app/)
+- 📫 Email me at [akarsh.sehlot@gmail.com](mailto:akarsh.sehlot@gmail.com)
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__akarsh__69/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshsahlot/)
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23D42029.svg?style=for-the-badge&logo=rust&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-0064a5.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2302569B.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-4d4d4d.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-f7df1e.svg?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375bd2.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=akarshsahlot&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akarshsahlot&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsahlot&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=akarshsahlot&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+<img src="https://github.com/user-attachments/assets/5684c252-3b1e-4b1e-8118-d9a299f07ec4" width="200"/>
+<img src="https://github.com/user-attachments/assets/44f1f2c1-1e80-40ac-b792-3dc692a8d47c" width="200"/>
+<img src="https://github.com/user-attachments/assets/e636269e-8651-40ba-9471-76dc693f51e5" width="200"/>
+<img src="https://github.com/user-attachments/assets/0d7d3a44-8ae0-4425-96e8-ba45ee7ce9e3" width="200"/>
+<img src="https://github.com/user-attachments/assets/8993b234-97e8-4cfb-abf7-356bca40a54f" width="200"/>
+<img src="https://github.com/user-attachments/assets/f02cf6b9-a7de-4d4e-8934-e4d18ab9485f" width="200"/>
+<img src="https://github.com/user-attachments/assets/86c0ef1f-5540-4f1d-92b4-49e1d455019e" width="200"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshsahlot&label=Profile%20views&color=0e75b6&style=flat" alt="akarshsahlot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akarshsahlot" alt="akarshsahlot" /></a> </p>
-
-- 🔭 I’m currently working on **Solana**
-
-- 👯 I’m looking to collaborate on **CloudnativeProjects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AkarshSahlot](https://github.com/AkarshSahlot)
-
-- 💬 Ask me about **react,nextjs,flutter,cybersecurity,gcp,azure,machine learning,kali linux, docker,kubernates**
-
-- 📫 How to reach me **akarshsahlot22164013@akgec.ac.in**
-
-- ⚡ Fun fact **still learning new tech skills to find my passion.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akarsh sahlot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarsh sahlot" height="30" width="40" /></a>
-<a href="https://instagram.com/akarsh sahlot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akarsh sahlot" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akarshsahlot&show_icons=true&locale=en&layout=compact" alt="akarshsahlot" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarshsahlot&show_icons=true&locale=en" alt="akarshsahlot" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akarshsahlot&" alt="akarshsahlot" /></p>
-I'm an enthusiastic developer with a passion for creating impactful projects. Here you'll find a collection of my work organized by programming language.
-
 ## Projects by Language
+
+### Web3 (Solana,Rust,Stellar)
+- [Autonomous-AI-Agent-Payments-on-Solana](https://github.com/AkarshSahlot/Autonomous-AI-Agent-Payments-on-Solana):A production-grade infrastructure for streaming micropayments with autonomous agent wallets.
+
+- [Voting-Decentralized](https://github.com/AkarshSahlot/Voting-Decentralized):A decentralized voting application built on the Solana blockchain.
+
+- [Sahlot](https://github.com/AkarshSahlot/Sahlot):Decentralized Stablecoin Protocol.
+
+- [Defi Buddy: Your Solana AI Sidekick](https://github.com/AkarshSahlot/DUMMIIES-DEFI):Defi Buddy is an AI-powered assistant for the Solana blockchain.
+
+- [Solana_indexer](https://github.com/AkarshSahlot/pumpfun_indexer):A high-performance Solana indexer built in Rust for tracking pump.fun tokens, trades, and graduations.
+
+- [Rust_grep_tool](https://github.com/AkarshSahlot/Rust_Grep_tool.):A terminal based tool to scrape data locally.
+
+- [Solana_faucet_Dapp](https://github.com/AkarshSahlot/faucet-solana-dapp):A solana Faucet decentralized app.
+
+- [Solana-wallet-app](https://github.com/AkarshSahlot/Solana-wallet):A basic solana wallet app.
 
 ### Flutter
 - [TIC TAC TOE GAME](https://github.com/AkarshSahlot/TicTacToe-main): Super cool animated tic tac toe game made by using flutter.
