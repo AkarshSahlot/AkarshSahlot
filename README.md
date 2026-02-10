@@ -1,5 +1,41 @@
-<h1 align="center">Hi 👋, I'm Akarsh Sahlot</h1>
-<h3 align="center">A passionate Solana developer </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AKARSH%20SAHLOT&fontSize=70&fontAlign=50&fontAlignY=35&color=gradient&customColorList=24,24,24,24,24&desc=🏎️%20SCUDERIA%20DEVELOPER%20|%20BLOCKCHAIN%20RACER%20|%20WEB3%20CHAMPION%20🏁&descSize=20&descAlign=50&descAlignY=65&animation=twinkling&fontColor=DC0000" width="100%"/>
+
+<h3 align="center">A passionate Solana developer</h3>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Formula1&weight=800&size=30&duration=2000&pause=800&color=DC0000&center=true&vCenter=true&repeat=true&width=900&lines=🏁+FORZA+FERRARI!+ANDIAMO!;🐎+PUSHING+LIMITS+SINCE+DAY+ONE;⚡+RUST+×+SOLANA+×+WEB3+×+DEFI;🏆+POLE+POSITION+IN+BLOCKCHAIN;💨+FULL+THROTTLE+DEVELOPMENT" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOrw4tlQfCTGmD5Kw/giphy.gif" width="700">
+</p>
+
+<br>
+
+<div align="center">
+```
+████████████████████████████████████████████████████████████████████████████████
+██                                                                            ██
+██   ███████╗███████╗██████╗ ██████╗  █████╗ ██████╗ ██╗    ██████╗  █████╗ ██
+██   ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║    ██╔══██╗██╔══██╗██
+██   █████╗  █████╗  ██████╔╝██████╔╝███████║██████╔╝██║    ██████╔╝███████║██
+██   ██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗██╔══██║██╔══██╗██║    ██╔══██╗██╔══██║██
+██   ██║     ███████╗██║  ██║██║  ██║██║  ██║██║  ██║██║    ██║  ██║██║  ██║██
+██   ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝██
+██                                                                            ██
+██              🏁 TEAM: SCUDERIA AKARSH  |  CAR: SF-75  |  #16 🏁           ██
+██                                                                            ██
+████████████████████████████████████████████████████████████████████████████████
+```
+
+</div>
+
+<br>
+
 # 💫 About Me:
 
 - 👨‍💻 Maintainer in Linux Foundation Mentorship'26 at [Hyphae(Sony Csl)](https://github.com/hyphae) 
@@ -14,28 +50,132 @@
 - 🔭 Currently pursuing my Bachelors in Computer Science
 - 👨‍🏫 Blockchain Lead of GDG, The GDG Club at AKGEC , Ghaziabad
 - 👨🏽‍💻 Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
-- 💫 Visit my personal Portfolio site [![Here]](https://portfolio-nine-sooty-o3pwmc3ocw.vercel.app/)
+- 💫 Visit my personal Portfolio site [Here](https://portfolio-nine-sooty-o3pwmc3ocw.vercel.app/)
 - 📫 Email me at [akarsh.sehlot@gmail.com](mailto:akarsh.sehlot@gmail.com)
+
+<br>
 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__akarsh__69/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshsahlot/)
 
+<br>
+
+<div align="center">
+
+## 🏁 RACE CONTROL - TELEMETRY DASHBOARD 🏁
+
+<table>
+<tr>
+<td align="center" width="20%" style="border: 3px solid #DC0000;">
+
+### 🏎️ **DRS**
+**20,000+**  
+COMMITS
+
+![](https://img.shields.io/badge/STATUS-ACTIVATED-DC0000?style=for-the-badge&logo=ferrari&logoColor=white)
+
+</td>
+<td align="center" width="20%" style="border: 3px solid #DC0000;">
+
+### 🏆 **PODIUMS**
+**80+**  
+PROJECTS
+
+![](https://img.shields.io/badge/STATUS-P1-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+
+</td>
+<td align="center" width="20%" style="border: 3px solid #DC0000;">
+
+### 🔥 **LAPS**
+**600+**  
+STREAK
+
+![](https://img.shields.io/badge/STATUS-FASTEST-DC0000?style=for-the-badge&logo=speedtest&logoColor=white)
+
+</td>
+<td align="center" width="20%" style="border: 3px solid #DC0000;">
+
+### ⭐ **FANS**
+**2,500+**  
+STARS
+
+![](https://img.shields.io/badge/STATUS-TIFOSI-FFD700?style=for-the-badge&logo=github&logoColor=black)
+
+</td>
+<td align="center" width="20%" style="border: 3px solid #DC0000;">
+
+### 💻 **TECH**
+**15+**  
+LANGUAGES
+
+![](https://img.shields.io/badge/STATUS-EXPERT-DC0000?style=for-the-badge&logo=code&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23D42029.svg?style=for-the-badge&logo=rust&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-0064a5.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2302569B.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-4d4d4d.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-f7df1e.svg?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375bd2.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlKrB02QY0f1mbm/giphy.gif" width="600">
+</p>
+
+<br>
+
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=akarshsahlot&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akarshsahlot&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsahlot&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=akarshsahlot&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=DC0000&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=15&border_color=DC0000&custom_title=🏎️%20PERFORMANCE%20DATA"/>
+<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=akarshsahlot&theme=dark&hide_border=true&background=0D0D0D&ring=DC0000&fire=FFD700&currStreakLabel=DC0000&sideNums=FFD700&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=DC0000&border_radius=15&stroke=DC0000&border=DC0000"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsahlot&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=DC0000&text_color=FFFFFF&border_radius=15&border_color=DC0000&custom_title=🏎️%20FUEL%20MIX%20COMPOSITION"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akarshsahlot&custom_title=🏁%20CIRCUIT%20LAP%20TIMES%20-%20MONZA%20CONFIGURATION%20🏁&bg_color=0D0D0D&color=DC0000&line=FFD700&point=FFFFFF&area_color=DC0000&title_color=DC0000&area=true&hide_border=false&border_color=DC0000&radius=15"/>
+
+</div>
+
+<br>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=akarshsahlot&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=akarshsahlot&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=DC0000&text_color=FFFFFF&icon_color=FFD700&bg_color=0D0D0D)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 TROPHY CABINET - WORLD CHAMPIONSHIPS 🏆
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=akarshsahlot&theme=darkhub&no-frame=false&no-bg=false&row=2&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Issues,Reviews"/>
+
+</div>
+
+<br>
 
 ---
+
+<div align="center">
+
 <img src="https://github.com/user-attachments/assets/5684c252-3b1e-4b1e-8118-d9a299f07ec4" width="200"/>
 <img src="https://github.com/user-attachments/assets/44f1f2c1-1e80-40ac-b792-3dc692a8d47c" width="200"/>
 <img src="https://github.com/user-attachments/assets/e636269e-8651-40ba-9471-76dc693f51e5" width="200"/>
@@ -44,8 +184,13 @@
 <img src="https://github.com/user-attachments/assets/f02cf6b9-a7de-4d4e-8934-e4d18ab9485f" width="200"/>
 <img src="https://github.com/user-attachments/assets/86c0ef1f-5540-4f1d-92b4-49e1d455019e" width="200"/>
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshsahlot&label=Profile%20views&color=0e75b6&style=flat" alt="akarshsahlot" /> </p>
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akarshsahlot&label=Profile%20views&color=DC0000&style=for-the-badge" alt="akarshsahlot" /> </p>
+
+<br>
 
 ## Projects by Language
 
@@ -77,19 +222,29 @@
 - [to do list app](https://github.com/AkarshSahlot/Flutter-ProviderTodoApp):simple to do app with using provider.
 - [make note of](https://github.com/AkarshSahlot/make-note-of-app):simple application to make our notes.
 - [local-music-player](https://github.com/AkarshSahlot/music_player-master):hear your downloaded music now.  
-  
 
-### JavaScript
-- [To-Do List App](https://github.com/username/todo-list-app): A simple to-do list application using React and Redux.
-- [Weather Dashboard](https://github.com/username/weather-dashboard): A weather dashboard application using Node.js and Express.
+<br>
 
-### Java
-- [Spring Boot API](https://github.com/username/spring-boot-api): A RESTful API built with Spring Boot.
-- [Android Expense Tracker](https://github.com/username/android-expense-tracker): An expense tracking app for Android.
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="500">
+</p>
 
-### Other Languages
-- [Ruby on Rails Blog](https://github.com/username/rails-blog): A blogging platform built with Ruby on Rails.
-- [C++ Game Engine](https://github.com/username/cpp-game-engine): A simple 2D game engine built with C++ and SDL.
+<br>
 
-Feel free to explore the repositories and reach out if you have any questions!
+<div align="center">
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║   🏎️ "YOU NEED TO HAVE THE MENTALITY TO NOT GIVE UP.                 ║
+║       IT'S ABOUT NEVER GIVING UP." - CHARLES LECLERC 🏁               ║
+║                                                                        ║
+║                    🐎 FORZA FERRARI! FORZA AKARSH! 🐎                 ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
 
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,24,24,24,24&section=footer&fontColor=DC0000&animation=twinkling" width="100%"/>
