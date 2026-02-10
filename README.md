@@ -1,40 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AKARSH%20SAHLOT&fontSize=70&fontAlign=50&fontAlignY=35&color=gradient&customColorList=24,24,24,24,24&desc=🏎️%20SCUDERIA%20DEVELOPER%20|%20BLOCKCHAIN%20RACER%20|%20WEB3%20CHAMPION%20🏁&descSize=20&descAlign=50&descAlignY=65&animation=twinkling&fontColor=DC0000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=AKARSH%20SAHLOT&fontSize=65&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=🏎️%20F1%20DEVELOPER%20|%20BLOCKCHAIN%20RACER%20|%20WEB3%20CHAMPION%20🏁&descSize=18&descAlign=50&descAlignY=60" width="100%"/>
 
-<h3 align="center">A passionate Solana developer</h3>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Formula1&weight=800&size=30&duration=2000&pause=800&color=DC0000&center=true&vCenter=true&repeat=true&width=900&lines=🏁+FORZA+FERRARI!+ANDIAMO!;🐎+PUSHING+LIMITS+SINCE+DAY+ONE;⚡+RUST+×+SOLANA+×+WEB3+×+DEFI;🏆+POLE+POSITION+IN+BLOCKCHAIN;💨+FULL+THROTTLE+DEVELOPMENT" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOrw4tlQfCTGmD5Kw/giphy.gif" width="700">
-</p>
-
-<br>
-
-<div align="center">
-```
-████████████████████████████████████████████████████████████████████████████████
-██                                                                            ██
-██   ███████╗███████╗██████╗ ██████╗  █████╗ ██████╗ ██╗    ██████╗  █████╗ ██
-██   ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║    ██╔══██╗██╔══██╗██
-██   █████╗  █████╗  ██████╔╝██████╔╝███████║██████╔╝██║    ██████╔╝███████║██
-██   ██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗██╔══██║██╔══██╗██║    ██╔══██╗██╔══██║██
-██   ██║     ███████╗██║  ██║██║  ██║██║  ██║██║  ██║██║    ██║  ██║██║  ██║██
-██   ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝██
-██                                                                            ██
-██              🏁 TEAM: SCUDERIA AKARSH  |  CAR: SF-75  |  #16 🏁           ██
-██                                                                            ██
-████████████████████████████████████████████████████████████████████████████████
-```
-
-</div>
-
-<br>
 
 # 💫 About Me:
 
@@ -52,6 +17,11 @@
 - 👨🏽‍💻 Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
 - 💫 Visit my personal Portfolio site [Here](https://portfolio-nine-sooty-o3pwmc3ocw.vercel.app/)
 - 📫 Email me at [akarsh.sehlot@gmail.com](mailto:akarsh.sehlot@gmail.com)
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOrw4tlQfCTGmD5Kw/giphy.gif" width="700">
+</p>
 
 <br>
 
@@ -118,6 +88,28 @@ LANGUAGES
 </div>
 
 <br>
+<br>
+
+<div align="center">
+  
+```
+████████████████████████████████████████████████████████████████████████████████
+██                                                                            ██
+██   ███████╗███████╗██████╗ ██████╗  █████╗ ██████╗ ██╗    ██████╗  █████╗ ██
+██   ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║    ██╔══██╗██╔══██╗██
+██   █████╗  █████╗  ██████╔╝██████╔╝███████║██████╔╝██║    ██████╔╝███████║██
+██   ██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗██╔══██║██╔══██╗██║    ██╔══██╗██╔══██║██
+██   ██║     ███████╗██║  ██║██║  ██║██║  ██║██║  ██║██║    ██║  ██║██║  ██║██
+██   ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝██
+██                                                                            ██
+██              🏁 TEAM: SCUDERIA AKARSH  |  CAR: SF-75  |  #16 🏁           ██
+██                                                                            ██
+████████████████████████████████████████████████████████████████████████████████
+```
+
+</div>
+
+<br>
 
 # 💻 Tech Stack:
 
@@ -130,46 +122,6 @@ LANGUAGES
 </p>
 
 <br>
-
-# 📊 GitHub Stats:
-
-<div align="center">
-
-<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=akarshsahlot&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=DC0000&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=15&border_color=DC0000&custom_title=🏎️%20PERFORMANCE%20DATA"/>
-<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=akarshsahlot&theme=dark&hide_border=true&background=0D0D0D&ring=DC0000&fire=FFD700&currStreakLabel=DC0000&sideNums=FFD700&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=DC0000&border_radius=15&stroke=DC0000&border=DC0000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsahlot&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=DC0000&text_color=FFFFFF&border_radius=15&border_color=DC0000&custom_title=🏎️%20FUEL%20MIX%20COMPOSITION"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akarshsahlot&custom_title=🏁%20CIRCUIT%20LAP%20TIMES%20-%20MONZA%20CONFIGURATION%20🏁&bg_color=0D0D0D&color=DC0000&line=FFD700&point=FFFFFF&area_color=DC0000&title_color=DC0000&area=true&hide_border=false&border_color=DC0000&radius=15"/>
-
-</div>
-
-<br>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=akarshsahlot&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=DC0000&text_color=FFFFFF&icon_color=FFD700&bg_color=0D0D0D)
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🏆 TROPHY CABINET - WORLD CHAMPIONSHIPS 🏆
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=akarshsahlot&theme=darkhub&no-frame=false&no-bg=false&row=2&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Issues,Reviews"/>
-
-</div>
-
 <br>
 
 ---
@@ -225,11 +177,55 @@ LANGUAGES
 
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="500">
-</p>
+# 📊 GitHub Stats:
+
+<div align="center">
+
+<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=akarshsahlot&theme=dark&hide_border=true&background=0D0D0D&ring=DC0000&fire=FFD700&currStreakLabel=DC0000&sideNums=FFD700&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=DC0000&border_radius=15&stroke=DC0000&border=DC0000"/>
+
+</div>
 
 <br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akarshsahlot&custom_title=🏁%20CIRCUIT%20LAP%20TIMES%20-%20MONZA%20CONFIGURATION%20🏁&bg_color=0D0D0D&color=DC0000&line=FFD700&point=FFFFFF&area_color=DC0000&title_color=DC0000&area=true&hide_border=false&border_color=DC0000&radius=15"/>
+
+</div>
+
+<br>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=akarshsahlot&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=DC0000&text_color=FFFFFF&icon_color=FFD700&bg_color=0D0D0D)
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🏁 ACHIEVEMENTS & TROPHIES 🏆
+
+<!-- Achievement badges using shields.io -->
+<img src="https://img.shields.io/badge/Stars-🌟%20Gold-DC0000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Commits-🚀%20Hyper-FFD700?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Repos-📦%20Many-FFFFFF?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/PRs-✅%20Merged-00FF00?style=for-the-badge&logo=github" />
+
+<br/>
+
+<!-- Stats Grid -->
+<a href="https://github.com/akarshsahlot">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akarshsahlot&theme=2077&title_color=DC0000" />
+</a>
+<a href="https://github.com/akarshsahlot">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akarshsahlot&theme=2077&title_color=DC0000" />
+</a>
+
+</div>
 
 <div align="center">
 ```
