@@ -147,6 +147,8 @@ LANGUAGES
 ## Projects by Language
 
 ### Web3 (Solana,Rust,Stellar)
+
+- [Los Technicos](https://github.com/blackdragoon26/Los-Tecnicos): A Stellar based smart energy trade system startup that trades energy made with solar panel with minted tokens.
 - [Autonomous-AI-Agent-Payments-on-Solana](https://github.com/AkarshSahlot/Autonomous-AI-Agent-Payments-on-Solana):A production-grade infrastructure for streaming micropayments with autonomous agent wallets.
 
 - [Voting-Decentralized](https://github.com/AkarshSahlot/Voting-Decentralized):A decentralized voting application built on the Solana blockchain.
