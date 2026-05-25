@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=AKARSH%20SAHLOT&fontSize=65&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=🏎️%20F1%20DEVELOPER%20|%20BLOCKCHAIN%20RACER%20|%20WEB3%20CHAMPION%20🏁&descSize=18&descAlign=50&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=AKARSH%20SAHLOT&fontSize=65&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=🏎️%20%20DEVELOPER%20|%20BLOCKCHAIN%20|%20WEB%20🏁&descSize=18&descAlign=50&descAlignY=60" width="100%"/>
 
 
 # About Me:
