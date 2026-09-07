@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=AKARSH%20SAHLOT&fontSize=65&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=AI%20DEVELOPER%20%7C%20BACKEND%20%7C%20BLOCKCHAIN&descSize=18&descAlign=50&descAlignY=60" width="100%"/>
-
 
 # About Me:
 - 👨🏽‍💻 Selected as Gsoc'26 maintainer @Cern
