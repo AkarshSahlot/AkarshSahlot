@@ -1,12 +1,12 @@
 
 # About Me:
-- 👨🏽‍💻 Selected as Gsoc'26 maintainer @Cern
-- 👨‍💻 Maintainer in Linux Foundation Mentorship'26 at [Hyphae(Sony Csl)](https://github.com/hyphae) 
-- 🌐 Selected as mentee Linux Foundation Mentorship'25 at [Hyphae(Sony Csl)](https://github.com/hyphae)
-- 🏛️ Selected of Code for Gov Tech DMP'2025 at SocialCalc & EtherCalc
-- 👨🏽‍💻 Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
-- 💫 Visit my personal Portfolio site [Here](https://portfolio-nine-sooty-o3pwmc3ocw.vercel.app/)
-- 📫 Email me at [akarsh.sehlot@gmail.com](mailto:akarsh.sehlot@gmail.com)
+-  Selected as Gsoc'26 maintainer @Cern
+-  Maintainer in Linux Foundation Mentorship'26 at [Hyphae(Sony Csl)](https://github.com/hyphae) 
+-  Selected as mentee Linux Foundation Mentorship'25 at [Hyphae(Sony Csl)](https://github.com/hyphae)
+-  Selected of Code for Gov Tech DMP'2025 at SocialCalc & EtherCalc
+-  Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
+-  Visit my personal Portfolio site [Here](https://portfolio-nine-sooty-o3pwmc3ocw.vercel.app/)
+-  Email me at [akarsh.sehlot@gmail.com](mailto:akarsh.sehlot@gmail.com)
   
 ## 🌐 Socials:
 
